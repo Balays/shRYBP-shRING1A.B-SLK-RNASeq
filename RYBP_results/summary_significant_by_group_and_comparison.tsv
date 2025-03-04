@@ -1,0 +1,16 @@
+comparison	Event_Group	Event_Type	count
+Control_vs_shRYBP	Alternative 5' Splice Site	a3ss_jc	154
+Control_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	169
+shRYBP_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	144
+Control_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	85
+shRYBP_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	98
+Control_vs_shRYBP	Retained Intron	ri_jc	125
+Control_vs_shRING1A.B	Retained Intron	ri_jc	114
+shRYBP_vs_shRING1A.B	Retained Intron	ri_jc	124
+Control_vs_shRYBP	Skipped Exon	se_jc	1126
+shRYBP_vs_shRING1A.B	Skipped Exon	se_jc	1239
+Control_vs_shRING1A.B	Skipped Exon	se_jc	1117
+Control_vs_shRYBP	Alternative 3' Splice Site	a5ss_jc	106
+shRYBP_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	93
+Control_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	91
+Control_vs_shRYBP	Mutually Exclusive Exon	mxe_jc	105

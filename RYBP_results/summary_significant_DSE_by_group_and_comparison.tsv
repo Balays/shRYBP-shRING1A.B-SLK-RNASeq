@@ -1,0 +1,49 @@
+comparison	Event_Group	Event_Type	DSE_Category	count
+Control_vs_shRYBP	Alternative 5' Splice Site	a3ss_jc	Common to shRING1A.B and shRYBP	49
+Control_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	Common to shRING1A.B and shRYBP	48
+Control_vs_shRYBP	Alternative 5' Splice Site	a3ss_jc		27
+shRYBP_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc		118
+Control_vs_shRYBP	Alternative 5' Splice Site	a3ss_jc	Unique to shRYBP vs Control	78
+Control_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	Same Direction	15
+shRYBP_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	Same Direction	15
+Control_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	Unique to shRING1A.B vs Control	55
+shRYBP_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc		83
+Control_vs_shRYBP	Retained Intron	ri_jc	Unique to shRYBP vs Control	58
+Control_vs_shRYBP	Retained Intron	ri_jc	Common to shRING1A.B and shRYBP	33
+Control_vs_shRING1A.B	Retained Intron	ri_jc	Common to shRING1A.B and shRYBP	33
+Control_vs_shRYBP	Retained Intron	ri_jc		33
+shRYBP_vs_shRING1A.B	Retained Intron	ri_jc		99
+Control_vs_shRYBP	Retained Intron	ri_jc	Different Direction	1
+Control_vs_shRING1A.B	Retained Intron	ri_jc	Different Direction	1
+shRYBP_vs_shRING1A.B	Retained Intron	ri_jc	Different Direction	1
+Control_vs_shRING1A.B	Retained Intron	ri_jc	Unique to shRING1A.B vs Control	57
+Control_vs_shRING1A.B	Retained Intron	ri_jc	Same Direction	23
+shRYBP_vs_shRING1A.B	Retained Intron	ri_jc	Same Direction	24
+Control_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	Unique to shRING1A.B vs Control	95
+Control_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	Same Direction	26
+shRYBP_vs_shRING1A.B	Alternative 5' Splice Site	a3ss_jc	Same Direction	26
+Control_vs_shRYBP	Skipped Exon	se_jc		292
+shRYBP_vs_shRING1A.B	Skipped Exon	se_jc		942
+Control_vs_shRYBP	Skipped Exon	se_jc	Unique to shRYBP vs Control	547
+Control_vs_shRYBP	Skipped Exon	se_jc	Common to shRING1A.B and shRYBP	281
+Control_vs_shRING1A.B	Skipped Exon	se_jc	Common to shRING1A.B and shRYBP	279
+Control_vs_shRYBP	Skipped Exon	se_jc	Different Direction	4
+Control_vs_shRING1A.B	Skipped Exon	se_jc	Different Direction	4
+shRYBP_vs_shRING1A.B	Skipped Exon	se_jc	Different Direction	4
+Control_vs_shRYBP	Skipped Exon	se_jc	Same Direction	2
+Control_vs_shRING1A.B	Skipped Exon	se_jc	Same Direction	292
+shRYBP_vs_shRING1A.B	Skipped Exon	se_jc	Same Direction	293
+Control_vs_shRING1A.B	Skipped Exon	se_jc	Unique to shRING1A.B vs Control	542
+Control_vs_shRYBP	Alternative 3' Splice Site	a5ss_jc		21
+shRYBP_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc		72
+Control_vs_shRYBP	Alternative 3' Splice Site	a5ss_jc	Unique to shRYBP vs Control	62
+Control_vs_shRYBP	Alternative 3' Splice Site	a5ss_jc	Common to shRING1A.B and shRYBP	23
+Control_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	Common to shRING1A.B and shRYBP	23
+Control_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	Unique to shRING1A.B vs Control	47
+Control_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	Same Direction	21
+shRYBP_vs_shRING1A.B	Alternative 3' Splice Site	a5ss_jc	Same Direction	21
+Control_vs_shRYBP	Mutually Exclusive Exon	mxe_jc	Unique to shRYBP vs Control	79
+Control_vs_shRYBP	Mutually Exclusive Exon	mxe_jc	Common to shRING1A.B and shRYBP	15
+Control_vs_shRING1A.B	Mutually Exclusive Exon	mxe_jc	Common to shRING1A.B and shRYBP	15
+Control_vs_shRYBP	Mutually Exclusive Exon	mxe_jc		10
+Control_vs_shRYBP	Mutually Exclusive Exon	mxe_jc	Same Direction	1
