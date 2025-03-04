@@ -1,0 +1,599 @@
+comparison	DSE_Category	Event_Group	geneSymbol	GeneID	Gene_Event_ID	Event_ID	SAMPLE_1_TotalReadCount	SAMPLE_2_TotalReadCount	IncLevelDifference	meanReadCount	absDeltaPSI	coverageDeltaScore
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CASC19	ENSG00000254166	1	Event_137	22	14	-0.747	18	0.747	13.446
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF133	ENSG00000125846	3	Event_39	7	14	0.498	10.5	0.498	5.229
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SUGP1	ENSG00000105705	1	Event_9	26	21	-0.465	23.5	0.465	10.9275
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	LLGL2	ENSG00000073350	1	Event_15	6	40	0.464	23	0.464	10.672
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FAM3A	ENSG00000071889	1	Event_167	34	32	0.463	33	0.463	15.279
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FAM66C	ENSG00000226711	1	Event_161	21	33	0.426	27	0.426	11.502
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CEP57L1	ENSG00000183137	1	Event_96	55	21	-0.41	38	0.41	15.58
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FKBP1B	ENSG00000119782	1	Event_77	13	29	0.402	21	0.402	8.442
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SETD4	ENSG00000185917	1	Event_1	36	23	-0.397	29.5	0.397	11.7115
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CENPE	ENSG00000138778	1	Event_37	18	43	-0.391	30.5	0.391	11.9255
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF195	ENSG00000005801	1	Event_143	43	36	0.378	39.5	0.378	14.931
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ATP11A	ENSG00000068650	3	Event_59	47	98	0.376	72.5	0.376	27.26
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	MAGIX	ENSG00000269313	1	Event_108	10	26	0.37	18	0.37	6.66
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	TSNARE1	ENSG00000171045	1	Event_138	55	60	0.327	57.5	0.327	18.8025
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	RHBDF1	ENSG00000007384	1	Event_25	28	30	-0.325	29	0.325	9.425
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SNHG17	ENSG00000196756	1	Event_13	68	44	-0.323	56	0.323	18.088
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SH3TC1	ENSG00000125089	2	Event_56	42	45	-0.302	43.5	0.302	13.137
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF780B	ENSG00000128000	1	Event_7	44	28	-0.299	36	0.299	10.764
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	RECQL	ENSG00000004700	1	Event_163	124	140	-0.296	132	0.296	39.072
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	TMEM131L	ENSG00000121210	1	Event_52	42	18	0.289	30	0.289	8.67
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CENPE	ENSG00000138778	1	Event_37	18	18	-0.662	18	0.662	11.916
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CASC19	ENSG00000254166	1	Event_137	22	19	-0.641	20.5	0.641	13.1405
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SUGP1	ENSG00000105705	1	Event_9	26	32	-0.552	29	0.552	16.008
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FAM3A	ENSG00000071889	1	Event_167	34	43	0.533	38.5	0.533	20.5205
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	TMEM131L	ENSG00000121210	1	Event_52	42	32	0.454	37	0.454	16.798
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	LLGL2	ENSG00000073350	1	Event_15	6	43	0.404	24.5	0.404	9.898
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SETD4	ENSG00000185917	1	Event_1	36	31	-0.397	33.5	0.397	13.2995
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FAM66C	ENSG00000226711	1	Event_161	21	19	0.39	20	0.39	7.8
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	MAGIX	ENSG00000269313	1	Event_108	10	27	0.388	18.5	0.388	7.178
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF195	ENSG00000005801	1	Event_143	43	26	0.355	34.5	0.355	12.2475
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	CEP57L1	ENSG00000183137	1	Event_96	55	25	-0.352	40	0.352	14.08
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	RHBDF1	ENSG00000007384	1	Event_25	28	41	-0.325	34.5	0.325	11.2125
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF462	ENSG00000148143	1	Event_128	28	75	0.3	51.5	0.3	15.45
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	ZNF133	ENSG00000125846	3	Event_39	7	21	0.296	14	0.296	4.144
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	RPSA	ENSG00000168028	1	Event_98	173	183	-0.294	178	0.294	52.332
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	SH3TC1	ENSG00000125089	2	Event_56	42	107	-0.275	74.5	0.275	20.4875
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	C21orf58	ENSG00000160298	2	Event_69	36	30	-0.273	33	0.273	9.009
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	RECQL	ENSG00000004700	1	Event_163	124	123	-0.269	123.5	0.269	33.2215
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	FKBP1B	ENSG00000119782	1	Event_77	13	34	0.258	23.5	0.258	6.063
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 5' Splice Site	OPTN	ENSG00000123240	1	Event_101	108	178	0.256	143	0.256	36.608
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	DHPS	ENSG00000095059	1	Event_114	8	23	-0.693	15.5	0.693	10.7415
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	JMJD7-PLA2G4B	ENSG00000168970	2	Event_31	8	12	-0.587	10	0.587	5.87
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	JMJD7-PLA2G4B	ENSG00000168970	1	Event_30	8	12	-0.583	10	0.583	5.83
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	SEMA4C	ENSG00000168758	1	Event_112	35	49	0.552	42	0.552	23.184
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	UCA1	ENSG00000214049	1	Event_68	38	25	0.492	31.5	0.492	15.498
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	DEF8	ENSG00000140995	1	Event_19	32	32	0.489	32	0.489	15.648
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	ZNF133	ENSG00000125846	4	Event_40	11	8	0.489	9.5	0.489	4.6455
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	IL32	ENSG00000008517	1	Event_23	19	14	-0.47	16.5	0.47	7.755
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	RACK1	ENSG00000204628	1	Event_38	43	46	0.468	44.5	0.468	20.826
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	PLAGL1	ENSG00000118495	2	Event_145	48	13	-0.466	30.5	0.466	14.213
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	TRIM16	ENSG00000221926	1	Event_154	11	9	0.417	10	0.417	4.17
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	FDXR	ENSG00000161513	1	Event_16	23	32	-0.356	27.5	0.356	9.79
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	COPS3	ENSG00000141030	1	Event_18	27	14	0.356	20.5	0.356	7.298
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	MSH5	ENSG00000204410	1	Event_85	21	26	-0.34	23.5	0.34	7.99
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	KRBA1	ENSG00000133619	1	Event_92	18	31	-0.334	24.5	0.334	8.183
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	WDR27	ENSG00000184465	1	Event_141	28	33	-0.333	30.5	0.333	10.1565
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	ATP11A	ENSG00000068650	2	Event_58	41	85	0.33	63	0.33	20.79
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	AFG3L1P	ENSG00000223959	1	Event_132	15	29	0.327	22	0.327	7.194
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	PPP6R3	ENSG00000110075	1	Event_151	31	31	0.322	31	0.322	9.982
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 5' Splice Site	CPNE1	ENSG00000214078	1	Event_24	47	51	-0.303	49	0.303	14.847
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	AAK1	ENSG00000115977	1	Event_1000	31	23	0.561	27	0.561	15.147
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	GALNT14	ENSG00000158089	1	Event_901	17	10	-0.32	13.5	0.32	4.32
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	DPH5	ENSG00000117543	1	Event_987	53	29	-0.308	41	0.308	12.628
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	SEPT2	ENSG00000168385	2	Event_1010	89	124	-0.278	106.5	0.278	29.607
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	EIF3E	ENSG00000104408	1	Event_1025	26	37	0.231	31.5	0.231	7.2765
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	STEAP3	ENSG00000115107	2	Event_999	474	685	0.169	579.5	0.169	97.9355
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	AC009879.3	ENSG00000285791	2	Event_991	38	39	-0.167	38.5	0.167	6.4295
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	TSEN15	ENSG00000198860	1	Event_985	96	36	-0.164	66	0.164	10.824
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	MAD1L1	ENSG00000002822	1	Event_1006	385	573	0.154	479	0.154	73.766
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	PTPN18	ENSG00000072135	1	Event_992	88	72	-0.141	80	0.141	11.28
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	DNM2	ENSG00000079805	1	Event_962	2193	3238	0.132	2715.5	0.132	358.446
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	KIAA0753	ENSG00000198920	1	Event_968	98	93	-0.132	95.5	0.132	12.606
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	MBD1	ENSG00000141644	2	Event_965	648	575	0.112	611.5	0.112	68.488
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	ZNF621	ENSG00000172888	1	Event_1011	69	68	-0.101	68.5	0.101	6.9185
+Control_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	COL5A1	ENSG00000130635	1	Event_998	151	494	-0.101	322.5	0.101	32.5725
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	GALNT14	ENSG00000158089	1	Event_901	13	10	-0.752	11.5	0.752	8.648
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	AAK1	ENSG00000115977	1	Event_1000	19	23	0.651	21	0.651	13.671
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	DPH5	ENSG00000117543	1	Event_987	54	29	-0.497	41.5	0.497	20.6255
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	ZNF621	ENSG00000172888	1	Event_1011	48	68	-0.261	58	0.261	15.138
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	SEPT2	ENSG00000168385	2	Event_1010	84	124	-0.253	104	0.253	26.312
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	PTPN18	ENSG00000072135	1	Event_992	56	72	-0.229	64	0.229	14.656
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	DNM2	ENSG00000079805	1	Event_962	2584	3238	0.2	2911	0.2	582.2
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	EIF3E	ENSG00000104408	1	Event_1025	23	37	0.193	30	0.193	5.79
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	MAD1L1	ENSG00000002822	1	Event_1006	477	573	0.177	525	0.177	92.925
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	STEAP3	ENSG00000115107	2	Event_999	402	685	0.161	543.5	0.161	87.5035
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	AC009879.3	ENSG00000285791	2	Event_991	58	39	-0.158	48.5	0.158	7.663
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	MBD1	ENSG00000141644	2	Event_965	525	575	0.136	550	0.136	74.8
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	KIAA0753	ENSG00000198920	1	Event_968	90	93	-0.122	91.5	0.122	11.163
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	TSEN15	ENSG00000198860	1	Event_985	100	36	-0.119	68	0.119	8.092
+shRYBP_vs_shRING1A.B	Same Direction	Mutually Exclusive Exon	COL5A1	ENSG00000130635	1	Event_998	243	494	-0.118	368.5	0.118	43.483
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	KCNQ5	ENSG00000185760	1	Event_981	34	13	-0.673	23.5	0.673	15.8155
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	NSRP1	ENSG00000126653	1	Event_1019	43	25	0.655	34	0.655	22.27
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	YAF2	ENSG00000015153	1	Event_995	21	25	0.602	23	0.602	13.846
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	SEPT2	ENSG00000168385	1	Event_1009	23	43	-0.599	33	0.599	19.767
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	VEZT	ENSG00000028203	1	Event_1033	31	9	-0.551	20	0.551	11.02
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	USP45	ENSG00000123552	1	Event_993	27	31	0.497	29	0.497	14.413
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	CASC19	ENSG00000254166	1	Event_1026	14	30	0.475	22	0.475	10.45
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	PCBP1-AS1	ENSG00000179818	1	Event_1017	8	7	0.473	7.5	0.473	3.5475
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	PPOX	ENSG00000143224	1	Event_989	12	10	-0.473	11	0.473	5.203
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	AGAP4	ENSG00000188234	1	Event_1031	22	27	-0.455	24.5	0.455	11.1475
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	SPATS2	ENSG00000123352	1	Event_980	12	10	0.444	11	0.444	4.884
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	RANBP17	ENSG00000204764	1	Event_1007	46	33	0.429	39.5	0.429	16.9455
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	SLC25A35	ENSG00000125434	1	Event_1015	12	8	-0.416	10	0.416	4.16
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	ZNF320	ENSG00000182986	1	Event_1024	31	26	-0.416	28.5	0.416	11.856
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	ZNF341	ENSG00000131061	1	Event_1001	53	43	0.373	48	0.373	17.904
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	TTC25	ENSG00000204815	2	Event_972	19	44	-0.334	31.5	0.334	10.521
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	INPP5B	ENSG00000204084	2	Event_979	67	88	-0.313	77.5	0.313	24.2575
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	RCC1	ENSG00000180198	1	Event_1030	111	109	0.312	110	0.312	34.32
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	SUGCT	ENSG00000175600	1	Event_1013	118	125	0.298	121.5	0.298	36.207
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Mutually Exclusive Exon	RGS22	ENSG00000132554	1	Event_1018	79	93	0.297	86	0.297	25.542
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	PPIL2	ENSG00000100023	1	Event_1330	21	14	-0.755	17.5	0.755	13.2125
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	SLC9A5	ENSG00000135740	1	Event_1350	9	22	-0.731	15.5	0.731	11.3305
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	ING4	ENSG00000111653	2	Event_1282	40	44	0.54	42	0.54	22.68
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	MUTYH	ENSG00000132781	2	Event_1284	35	33	-0.493	34	0.493	16.762
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	CIRBP	ENSG00000099622	1	Event_1287	19	26	-0.474	22.5	0.474	10.665
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	RBM8A	ENSG00000265241	1	Event_1272	23	43	-0.455	33	0.455	15.015
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	SZT2	ENSG00000198198	1	Event_1321	48	78	0.444	63	0.444	27.972
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	TUBGCP6	ENSG00000128159	1	Event_1220	33	54	-0.403	43.5	0.403	17.5305
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	DERL2	ENSG00000072849	1	Event_1240	73	64	-0.392	68.5	0.392	26.852
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	RPS15	ENSG00000115268	1	Event_1229	32	19	-0.374	25.5	0.374	9.537
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	CCDC78	ENSG00000162004	2	Event_1247	24	29	-0.361	26.5	0.361	9.5665
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	PRPF39	ENSG00000185246	1	Event_1352	41	46	-0.34	43.5	0.34	14.79
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	CD274	ENSG00000120217	1	Event_1333	55	42	0.326	48.5	0.326	15.811
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	SLC2A11	ENSG00000133460	1	Event_1221	18	21	0.308	19.5	0.308	6.006
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	ING4	ENSG00000111653	1	Event_1281	69	77	0.286	73	0.286	20.878
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	PCBP1-AS1	ENSG00000179818	1	Event_1320	68	34	0.279	51	0.279	14.229
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	RSRP1	ENSG00000117616	1	Event_1276	130	173	-0.277	151.5	0.277	41.9655
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	IRF7	ENSG00000185507	1	Event_1266	27	78	-0.26	52.5	0.26	13.65
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	SETD6	ENSG00000103037	1	Event_1327	131	98	0.243	114.5	0.243	27.8235
+Control_vs_shRYBP	Unique to shRYBP vs Control	Retained Intron	STEAP2	ENSG00000157214	1	Event_1316	46	6	-0.237	26	0.237	6.162
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	DNHD1	ENSG00000179532	1	Event_1338	14	26	-0.846	20	0.846	16.92
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	COX7C	ENSG00000127184	1	Event_1259	32	31	-0.719	31.5	0.719	22.6485
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	DNHD1	ENSG00000179532	2	Event_1339	10	13	0.675	11.5	0.675	7.7625
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	CATSPER2	ENSG00000166762	1	Event_1306	5	16	0.638	10.5	0.638	6.699
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	SUPT7L	ENSG00000119760	1	Event_1324	113	121	-0.394	117	0.394	46.098
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	SF3B1	ENSG00000115524	1	Event_1290	63	107	-0.381	85	0.381	32.385
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	MAP3K14-AS1	ENSG00000267278	1	Event_1237	39	42	0.372	40.5	0.372	15.066
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	L3MBTL1	ENSG00000185513	1	Event_1233	20	19	0.355	19.5	0.355	6.9225
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	ERCC3	ENSG00000163161	1	Event_1262	54	30	-0.339	42	0.339	14.238
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	TSPAN31	ENSG00000135452	1	Event_1348	27	27	0.338	27	0.338	9.126
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	PGGHG	ENSG00000142102	1	Event_1336	24	21	-0.335	22.5	0.335	7.5375
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	DRG2	ENSG00000108591	1	Event_1239	5	6	-0.333	5.5	0.333	1.8315
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	LIME1	ENSG00000203896	1	Event_1232	81	88	-0.287	84.5	0.287	24.2515
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	HOXA-AS2	ENSG00000253552	1	Event_1315	51	44	-0.285	47.5	0.285	13.5375
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	MAGIX	ENSG00000269313	1	Event_1304	10	27	0.276	18.5	0.276	5.106
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	GORASP1	ENSG00000114745	1	Event_1314	37	47	-0.255	42	0.255	10.71
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	PPFIA3	ENSG00000177380	1	Event_1223	91	140	-0.232	115.5	0.232	26.796
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	NAA40	ENSG00000110583	1	Event_1325	45	63	-0.217	54	0.217	11.718
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	GSTP1	ENSG00000084207	1	Event_1342	37	66	-0.206	51.5	0.206	10.609
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Retained Intron	KAT8	ENSG00000103510	1	Event_1341	42	57	-0.199	49.5	0.199	9.8505
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	CATSPER2	ENSG00000166762	1	Event_1306	5	24	0.822	14.5	0.822	11.919
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	DNHD1	ENSG00000179532	1	Event_1338	14	12	-0.737	13	0.737	9.581
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	COX7C	ENSG00000127184	1	Event_1259	32	39	-0.601	35.5	0.601	21.3355
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	MAP3K14-AS1	ENSG00000267278	1	Event_1237	39	30	0.555	34.5	0.555	19.1475
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	DNHD1	ENSG00000179532	2	Event_1339	10	28	0.502	19	0.502	9.538
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	MAGIX	ENSG00000269313	1	Event_1304	10	35	0.414	22.5	0.414	9.315
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	L3MBTL1	ENSG00000185513	1	Event_1233	20	32	0.345	26	0.345	8.97
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	ERCC3	ENSG00000163161	1	Event_1262	54	21	-0.339	37.5	0.339	12.7125
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	SF3B1	ENSG00000115524	1	Event_1290	63	134	-0.319	98.5	0.319	31.4215
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	PGGHG	ENSG00000142102	1	Event_1336	24	39	-0.289	31.5	0.289	9.1035
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	NAA40	ENSG00000110583	1	Event_1325	45	49	-0.284	47	0.284	13.348
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	TSPAN31	ENSG00000135452	1	Event_1348	27	33	0.28	30	0.28	8.4
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	KAT8	ENSG00000103510	1	Event_1341	42	62	-0.259	52	0.259	13.468
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	AC142381.3	ENSG00000260628	1	Event_1242	32	82	0.253	57	0.253	14.421
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	ZSWIM7	ENSG00000214941	1	Event_1279	112	87	0.241	99.5	0.241	23.9795
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	HOXA-AS2	ENSG00000253552	1	Event_1315	51	36	-0.238	43.5	0.238	10.353
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	SUPT7L	ENSG00000119760	1	Event_1324	113	191	-0.235	152	0.235	35.72
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	DRG2	ENSG00000108591	1	Event_1239	5	18	-0.234	11.5	0.234	2.691
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	ARL6IP4	ENSG00000182196	1	Event_1328	156	163	-0.207	159.5	0.207	33.0165
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Retained Intron	GSTP1	ENSG00000084207	1	Event_1342	37	39	-0.206	38	0.206	7.828
+Control_vs_shRYBP	Different Direction	Retained Intron	IKBKB	ENSG00000104365	1	Event_1329	26	27	-0.791	26.5	0.791	20.9615
+Control_vs_shRING1A.B	Different Direction	Retained Intron	IKBKB	ENSG00000104365	1	Event_1329	26	25	-0.541	25.5	0.541	13.7955
+shRYBP_vs_shRING1A.B	Different Direction	Retained Intron	IKBKB	ENSG00000104365	1	Event_1329	27	25	0.25	26	0.25	6.5
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	ZC3H14	ENSG00000100722	1	Event_1416	8	7	0.667	7.5	0.667	5.0025
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	MAPK12	ENSG00000188130	1	Event_1354	21	46	-0.571	33.5	0.571	19.1285
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	BPHL	ENSG00000137274	1	Event_1400	15	36	-0.515	25.5	0.515	13.1325
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	MRNIP	ENSG00000161010	1	Event_1415	15	44	0.512	29.5	0.512	15.104
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	CDK20	ENSG00000156345	1	Event_1379	42	34	-0.507	38	0.507	19.266
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	DUS1L	ENSG00000169718	1	Event_1362	34	43	-0.469	38.5	0.469	18.0565
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	SNHG12	ENSG00000197989	1	Event_1399	42	66	0.418	54	0.418	22.572
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	EP400P1	ENSG00000185684	1	Event_1385	23	13	-0.417	18	0.417	7.506
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	FBF1	ENSG00000188878	1	Event_1420	16	25	-0.389	20.5	0.389	7.9745
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	FUK	ENSG00000157353	1	Event_1365	33	33	0.387	33	0.387	12.771
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	ZC3H14	ENSG00000100722	2	Event_1417	42	42	-0.367	42	0.367	15.414
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	GALK1	ENSG00000108479	1	Event_1363	29	25	-0.361	27	0.361	9.747
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	GORASP1	ENSG00000114745	2	Event_1412	80	93	-0.346	86.5	0.346	29.929
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	RAD51D	ENSG00000185379	1	Event_1403	40	20	-0.342	30	0.342	10.26
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	SLC38A7	ENSG00000103042	1	Event_1366	45	31	-0.338	38	0.338	12.844
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	JMJD8	ENSG00000161999	1	Event_1371	104	145	0.32	124.5	0.32	39.84
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	STARD3	ENSG00000131748	1	Event_1405	55	37	-0.293	46	0.293	13.478
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	EPS8L1	ENSG00000131037	1	Event_1404	26	59	-0.278	42.5	0.278	11.815
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	SMARCD3	ENSG00000082014	1	Event_1389	119	176	0.262	147.5	0.262	38.645
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Retained Intron	SETD4	ENSG00000185917	1	Event_1353	88	107	-0.26	97.5	0.26	25.35
+Control_vs_shRING1A.B	Same Direction	Retained Intron	RPS6KL1	ENSG00000198208	1	Event_1430	6	10	0.63	8	0.63	5.04
+Control_vs_shRING1A.B	Same Direction	Retained Intron	PPM1F	ENSG00000100034	1	Event_1390	19	35	-0.611	27	0.611	16.497
+Control_vs_shRING1A.B	Same Direction	Retained Intron	PSMD11	ENSG00000108671	1	Event_1364	36	19	-0.401	27.5	0.401	11.0275
+Control_vs_shRING1A.B	Same Direction	Retained Intron	ZNF789	ENSG00000198556	1	Event_1419	38	53	-0.369	45.5	0.369	16.7895
+Control_vs_shRING1A.B	Same Direction	Retained Intron	GBAP1	ENSG00000160766	2	Event_1411	102	58	-0.331	80	0.331	26.48
+Control_vs_shRING1A.B	Same Direction	Retained Intron	REX1BD	ENSG00000006015	2	Event_1358	33	73	0.323	53	0.323	17.119
+Control_vs_shRING1A.B	Same Direction	Retained Intron	ABCC5	ENSG00000114770	1	Event_1409	46	33	0.309	39.5	0.309	12.2055
+Control_vs_shRING1A.B	Same Direction	Retained Intron	NME3	ENSG00000103024	2	Event_1434	61	58	-0.307	59.5	0.307	18.2665
+Control_vs_shRING1A.B	Same Direction	Retained Intron	SRSF5	ENSG00000100650	1	Event_1436	144	127	-0.3	135.5	0.3	40.65
+Control_vs_shRING1A.B	Same Direction	Retained Intron	CCDC189	ENSG00000196118	1	Event_1367	9	25	0.296	17	0.296	5.032
+Control_vs_shRING1A.B	Same Direction	Retained Intron	ATP6AP2	ENSG00000182220	1	Event_1422	20	31	-0.293	25.5	0.293	7.4715
+Control_vs_shRING1A.B	Same Direction	Retained Intron	TRMT2B	ENSG00000188917	1	Event_1423	38	54	0.293	46	0.293	13.478
+Control_vs_shRING1A.B	Same Direction	Retained Intron	SIRT6	ENSG00000077463	1	Event_1429	34	38	-0.278	36	0.278	10.008
+Control_vs_shRING1A.B	Same Direction	Retained Intron	ALG10	ENSG00000139133	1	Event_1378	12	19	0.267	15.5	0.267	4.1385
+Control_vs_shRING1A.B	Same Direction	Retained Intron	CRB3	ENSG00000130545	1	Event_1382	142	241	-0.259	191.5	0.259	49.5985
+Control_vs_shRING1A.B	Same Direction	Retained Intron	RHOT2	ENSG00000140983	1	Event_1372	48	68	0.248	58	0.248	14.384
+Control_vs_shRING1A.B	Same Direction	Retained Intron	POMGNT1	ENSG00000085998	1	Event_1414	32	48	0.241	40	0.241	9.64
+Control_vs_shRING1A.B	Same Direction	Retained Intron	DGKZ	ENSG00000149091	1	Event_1431	38	33	-0.238	35.5	0.238	8.449
+Control_vs_shRING1A.B	Same Direction	Retained Intron	RPRD1A	ENSG00000141425	1	Event_1361	23	28	-0.218	25.5	0.218	5.559
+Control_vs_shRING1A.B	Same Direction	Retained Intron	POMZP3	ENSG00000146707	1	Event_1418	41	11	0.181	26	0.181	4.706
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	RPS6KL1	ENSG00000198208	1	Event_1430	8	10	0.713	9	0.713	6.417
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	CCDC189	ENSG00000196118	1	Event_1367	9	25	0.574	17	0.574	9.758
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	PSMD11	ENSG00000108671	1	Event_1364	13	19	-0.517	16	0.517	8.272
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	SIRT6	ENSG00000077463	1	Event_1429	27	38	-0.429	32.5	0.429	13.9425
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	POMZP3	ENSG00000146707	1	Event_1418	33	11	0.383	22	0.383	8.426
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	PPM1F	ENSG00000100034	1	Event_1390	25	35	-0.375	30	0.375	11.25
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	ZNF789	ENSG00000198556	1	Event_1419	58	53	-0.375	55.5	0.375	20.8125
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	REX1BD	ENSG00000006015	2	Event_1358	70	73	0.373	71.5	0.373	26.6695
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	ATP6AP2	ENSG00000182220	1	Event_1422	37	31	-0.36	34	0.36	12.24
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	ABCC5	ENSG00000114770	1	Event_1409	23	33	0.309	28	0.309	8.652
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	ALG10	ENSG00000139133	1	Event_1378	19	19	0.305	19	0.305	5.795
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	RPRD1A	ENSG00000141425	1	Event_1361	39	28	-0.284	33.5	0.284	9.514
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	DGKZ	ENSG00000149091	1	Event_1431	47	33	-0.276	40	0.276	11.04
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	SRSF5	ENSG00000100650	1	Event_1436	144	127	-0.262	135.5	0.262	35.501
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	RHOT2	ENSG00000140983	1	Event_1372	57	68	0.248	62.5	0.248	15.5
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	GBAP1	ENSG00000160766	2	Event_1411	93	58	-0.237	75.5	0.237	17.8935
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	NME3	ENSG00000103024	2	Event_1434	64	58	-0.219	61	0.219	13.359
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	TRMT2B	ENSG00000188917	1	Event_1423	35	54	0.213	44.5	0.213	9.4785
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	POMGNT1	ENSG00000085998	1	Event_1414	45	48	0.174	46.5	0.174	8.091
+shRYBP_vs_shRING1A.B	Same Direction	Retained Intron	ATAT1	ENSG00000137343	1	Event_1506	19	36	-0.157	27.5	0.157	4.3175
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	TMEM63B	ENSG00000137216	1	Event_280	27	19	0.766	23	0.766	17.618
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	ZNF419	ENSG00000105136	1	Event_262	31	46	-0.571	38.5	0.571	21.9835
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	AC006001.3	ENSG00000229180	1	Event_244	18	9	0.562	13.5	0.562	7.587
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	CENPT	ENSG00000102901	1	Event_192	17	7	-0.553	12	0.553	6.636
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	CPLANE1	ENSG00000197603	1	Event_203	16	42	-0.486	29	0.486	14.094
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	CFAP45	ENSG00000213085	1	Event_223	22	25	0.457	23.5	0.457	10.7395
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	BAZ2B	ENSG00000123636	1	Event_243	12	26	0.447	19	0.447	8.493
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	CRYM	ENSG00000103316	1	Event_188	35	58	-0.419	46.5	0.419	19.4835
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	TMEM63B	ENSG00000137216	3	Event_282	55	87	0.417	71	0.417	29.607
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	ZC3H14	ENSG00000100722	1	Event_273	36	43	-0.398	39.5	0.398	15.721
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	SHKBP1	ENSG00000160410	1	Event_173	16	21	-0.391	18.5	0.391	7.2335
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	ZNF133	ENSG00000125846	1	Event_197	43	29	-0.388	36	0.388	13.968
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	C17orf53	ENSG00000125319	1	Event_178	52	40	0.36	46	0.36	16.56
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	FAM111A	ENSG00000166801	1	Event_247	44	44	-0.358	44	0.358	15.752
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	CDAN1	ENSG00000140326	1	Event_193	68	64	0.348	66	0.348	22.968
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	LLGL2	ENSG00000073350	2	Event_176	11	61	0.341	36	0.341	12.276
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	REXO5	ENSG00000005189	1	Event_296	61	47	-0.334	54	0.334	18.036
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	ASPSCR1	ENSG00000169696	1	Event_212	19	49	-0.329	34	0.329	11.186
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	AL365205.1	ENSG00000124593	1	Event_233	12	16	0.318	14	0.318	4.452
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 5' Splice Site	FRYL	ENSG00000075539	1	Event_284	67	100	0.295	83.5	0.295	24.6325
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	TPT1-AS1	ENSG00000170919	1	Event_272	18	6	-0.701	12	0.701	8.412
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	SLC26A11	ENSG00000181045	1	Event_175	29	61	0.474	45	0.474	21.33
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	KCP	ENSG00000135253	1	Event_230	14	41	0.433	27.5	0.433	11.9075
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	SMPD4	ENSG00000136699	1	Event_256	64	69	0.369	66.5	0.369	24.5385
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	ALS2CL	ENSG00000178038	2	Event_252	12	19	0.368	15.5	0.368	5.704
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	RHOT2	ENSG00000140983	1	Event_190	34	25	0.343	29.5	0.343	10.1185
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DOK4	ENSG00000125170	1	Event_186	17	28	0.281	22.5	0.281	6.3225
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	PPP1R12B	ENSG00000077157	1	Event_235	38	41	-0.22	39.5	0.22	8.69
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	RNF32	ENSG00000105982	1	Event_210	12	41	0.217	26.5	0.217	5.7505
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	MAGI2-AS3	ENSG00000234456	1	Event_275	20	21	0.207	20.5	0.207	4.2435
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	AAMP	ENSG00000127837	1	Event_257	29	52	0.204	40.5	0.204	8.262
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DEDD	ENSG00000158796	1	Event_232	49	61	0.203	55	0.203	11.165
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DUS3L	ENSG00000141994	1	Event_171	433	158	-0.2	295.5	0.2	59.1
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	ARHGEF26	ENSG00000114790	1	Event_216	12	36	0.192	24	0.192	4.608
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	TMEM63B	ENSG00000137216	2	Event_281	73	86	0.191	79.5	0.191	15.1845
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	ZBTB44	ENSG00000196323	1	Event_294	224	228	0.188	226	0.188	42.488
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	HOMER2	ENSG00000103942	1	Event_191	104	181	-0.182	142.5	0.182	25.935
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	FNBP1	ENSG00000187239	1	Event_291	86	57	0.18	71.5	0.18	12.87
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	NDRG4	ENSG00000103034	1	Event_185	33	56	-0.165	44.5	0.165	7.3425
+Control_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	TPM1	ENSG00000140416	1	Event_239	286	243	-0.156	264.5	0.156	41.262
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	TPT1-AS1	ENSG00000170919	1	Event_272	12	6	-0.645	9	0.645	5.805
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	KCP	ENSG00000135253	1	Event_230	13	41	0.567	27	0.567	15.309
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	SMPD4	ENSG00000136699	1	Event_256	37	69	0.499	53	0.499	26.447
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	SLC26A11	ENSG00000181045	1	Event_175	57	61	0.41	59	0.41	24.19
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	ALS2CL	ENSG00000178038	2	Event_252	10	19	0.368	14.5	0.368	5.336
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	PPP1R12B	ENSG00000077157	1	Event_235	34	41	-0.357	37.5	0.357	13.3875
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	MAGI2-AS3	ENSG00000234456	1	Event_275	25	21	0.357	23	0.357	8.211
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	RHOT2	ENSG00000140983	1	Event_190	24	25	0.343	24.5	0.343	8.4035
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DOK4	ENSG00000125170	1	Event_186	13	28	0.281	20.5	0.281	5.7605
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	IFFO1	ENSG00000010295	1	Event_214	64	32	-0.229	48	0.229	10.992
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	RNF32	ENSG00000105982	1	Event_210	21	41	0.217	31	0.217	6.727
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	COL5A1	ENSG00000130635	1	Event_248	164	321	-0.206	242.5	0.206	49.955
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	FNBP1	ENSG00000187239	1	Event_291	46	57	0.206	51.5	0.206	10.609
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	AAMP	ENSG00000127837	1	Event_257	31	52	0.204	41.5	0.204	8.466
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DEDD	ENSG00000158796	1	Event_232	27	61	0.203	44	0.203	8.932
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	DUS3L	ENSG00000141994	1	Event_171	300	158	-0.196	229	0.196	44.884
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	ARHGEF26	ENSG00000114790	1	Event_216	35	36	0.192	35.5	0.192	6.816
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	PTPN6	ENSG00000111679	1	Event_269	112	82	-0.164	97	0.164	15.908
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	NDRG4	ENSG00000103034	1	Event_185	25	56	-0.161	40.5	0.161	6.5205
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 5' Splice Site	HOMER2	ENSG00000103942	1	Event_191	68	181	-0.155	124.5	0.155	19.2975
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	PKIB	ENSG00000135549	1	Event_1986	5	5	-1	5	1	5
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	BCS1L	ENSG00000074582	1	Event_2498	18	19	-0.691	18.5	0.691	12.7835
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	SPG7	ENSG00000197912	1	Event_1863	18	7	-0.688	12.5	0.688	8.6
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	AC138932.1	ENSG00000183458	1	Event_2179	20	11	0.686	15.5	0.686	10.633
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	CCDC78	ENSG00000162004	3	Event_1914	16	23	0.672	19.5	0.672	13.104
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	HDAC10	ENSG00000100429	2	Event_1960	3	8	-0.667	5.5	0.667	3.6685
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	FKTN	ENSG00000106692	1	Event_2109	5	5	0.667	5	0.667	3.335
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	FKTN	ENSG00000106692	2	Event_2110	4	5	0.667	4.5	0.667	3.0015
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	CCDC58	ENSG00000160124	2	Event_2917	13	5	-0.667	9	0.667	6.003
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	SPG7	ENSG00000197912	2	Event_1864	19	7	-0.652	13	0.652	8.476
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	WDR90	ENSG00000161996	4	Event_1918	22	16	0.649	19	0.649	12.331
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	RNF165	ENSG00000141622	1	Event_1987	18	25	-0.64	21.5	0.64	13.76
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	VEZT	ENSG00000028203	1	Event_2898	13	15	-0.639	14	0.639	8.946
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	FAM228B	ENSG00000219626	1	Event_2407	22	27	0.611	24.5	0.611	14.9695
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	MSR1	ENSG00000038945	1	Event_2351	14	19	-0.6	16.5	0.6	9.9
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	ZBTB8OS	ENSG00000176261	1	Event_2137	26	39	-0.597	32.5	0.597	19.4025
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	WDR20	ENSG00000140153	2	Event_1968	19	12	0.596	15.5	0.596	9.238
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	UBE2F	ENSG00000184182	1	Event_2501	18	10	-0.59	14	0.59	8.26
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	FLYWCH1	ENSG00000059122	1	Event_1903	37	51	0.584	44	0.584	25.696
+Control_vs_shRYBP	Unique to shRYBP vs Control	Skipped Exon	AC135983.2	ENSG00000223509	1	Event_1957	17	38	-0.577	27.5	0.577	15.8675
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	NEDD1	ENSG00000139350	1	Event_2892	8	6	-1	7	1	7
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	ANKRD12	ENSG00000101745	1	Event_1824	10	25	0.828	17.5	0.828	14.49
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	MED12L	ENSG00000144893	1	Event_2462	11	18	0.754	14.5	0.754	10.933
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	MROH6	ENSG00000204839	1	Event_2712	12	18	0.683	15	0.683	10.245
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	RAPH1	ENSG00000173166	2	Event_2336	7	10	-0.667	8.5	0.667	5.6695
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	FAM45A	ENSG00000119979	1	Event_2860	6	12	-0.667	9	0.667	6.003
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	ZNF133	ENSG00000125846	1	Event_2025	29	13	0.64	21	0.64	13.44
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	SNHG14	ENSG00000224078	1	Event_2446	20	15	0.619	17.5	0.619	10.8325
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	SVIL-AS1	ENSG00000224597	1	Event_2684	29	33	-0.614	31	0.614	19.034
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	LINC01006	ENSG00000182648	2	Event_2096	25	25	0.605	25	0.605	15.125
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	SPIN1	ENSG00000106723	2	Event_2797	28	21	-0.592	24.5	0.592	14.504
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	PRDM11	ENSG00000019485	1	Event_2778	22	26	-0.588	24	0.588	14.112
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	AC004943.2	ENSG00000259768	1	Event_1873	12	19	-0.584	15.5	0.584	9.052
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	WASH3P	ENSG00000185596	1	Event_1928	30	13	0.579	21.5	0.579	12.4485
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	FGFR3	ENSG00000068078	1	Event_2196	26	45	0.571	35.5	0.571	20.2705
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	GSDMD	ENSG00000104518	1	Event_2711	15	22	0.571	18.5	0.571	10.5635
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	AL162258.1	ENSG00000271853	1	Event_2680	13	8	-0.569	10.5	0.569	5.9745
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	GRB10	ENSG00000106070	2	Event_2081	32	46	-0.558	39	0.558	21.762
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	ZBTB8OS	ENSG00000176261	2	Event_2138	21	12	-0.556	16.5	0.556	9.174
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Skipped Exon	KSR1	ENSG00000141068	1	Event_2229	19	10	-0.554	14.5	0.554	8.033
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	NEDD1	ENSG00000139350	1	Event_2892	8	14	-0.879	11	0.879	9.669
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	NSRP1	ENSG00000126653	2	Event_2615	30	12	0.859	21	0.859	18.039
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	ANKRD12	ENSG00000101745	1	Event_1824	10	42	0.791	26	0.791	20.566
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	GSDMD	ENSG00000104518	1	Event_2711	15	25	0.73	20	0.73	14.6
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	PDLIM7	ENSG00000196923	1	Event_2559	31	27	0.701	29	0.701	20.329
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	RAPH1	ENSG00000173166	2	Event_2336	7	6	-0.667	6.5	0.667	4.3355
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	FAM45A	ENSG00000119979	1	Event_2860	6	15	-0.667	10.5	0.667	7.0035
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	SNHG14	ENSG00000224078	1	Event_2446	20	18	0.63	19	0.63	11.97
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	SCML1	ENSG00000047634	2	Event_2819	21	12	0.628	16.5	0.628	10.362
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	MROH6	ENSG00000204839	1	Event_2712	12	27	0.623	19.5	0.623	12.1485
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	GRB10	ENSG00000106070	2	Event_2081	32	74	-0.611	53	0.611	32.383
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	FAM90A1	ENSG00000171847	4	Event_2605	18	13	-0.6	15.5	0.6	9.3
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	CEP63	ENSG00000182923	1	Event_2163	12	18	0.589	15	0.589	8.835
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	ABCC6	ENSG00000091262	1	Event_1891	23	73	0.587	48	0.587	28.176
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	KSR1	ENSG00000141068	1	Event_2229	19	43	-0.575	31	0.575	17.825
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	AL162258.1	ENSG00000271853	1	Event_2680	13	7	-0.569	10	0.569	5.69
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	ZBTB8OS	ENSG00000176261	2	Event_2138	21	16	-0.556	18.5	0.556	10.286
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	FAM222B	ENSG00000173065	1	Event_1855	9	30	-0.532	19.5	0.532	10.374
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	COP1	ENSG00000143207	2	Event_2476	8	9	-0.531	8.5	0.531	4.5135
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Skipped Exon	GRB10	ENSG00000106070	1	Event_2080	43	64	-0.524	53.5	0.524	28.034
+Control_vs_shRYBP	Different Direction	Skipped Exon	PKD1P1	ENSG00000183889	1	Event_1890	15	39	0.944	27	0.944	25.488
+Control_vs_shRYBP	Different Direction	Skipped Exon	MOK	ENSG00000080823	3	Event_2148	34	26	0.784	30	0.784	23.52
+Control_vs_shRYBP	Different Direction	Skipped Exon	TEP1	ENSG00000129566	1	Event_2302	42	56	0.59	49	0.59	28.91
+Control_vs_shRYBP	Different Direction	Skipped Exon	C2CD5	ENSG00000111731	1	Event_2535	13	8	0.576	10.5	0.576	6.048
+Control_vs_shRING1A.B	Different Direction	Skipped Exon	PKD1P1	ENSG00000183889	1	Event_1890	15	44	0.43	29.5	0.43	12.685
+Control_vs_shRING1A.B	Different Direction	Skipped Exon	C2CD5	ENSG00000111731	1	Event_2535	13	24	0.401	18.5	0.401	7.4185
+Control_vs_shRING1A.B	Different Direction	Skipped Exon	MOK	ENSG00000080823	3	Event_2148	34	30	0.285	32	0.285	9.12
+Control_vs_shRING1A.B	Different Direction	Skipped Exon	TEP1	ENSG00000129566	1	Event_2302	42	53	0.25	47.5	0.25	11.875
+shRYBP_vs_shRING1A.B	Different Direction	Skipped Exon	PKD1P1	ENSG00000183889	1	Event_1890	39	44	-0.514	41.5	0.514	21.331
+shRYBP_vs_shRING1A.B	Different Direction	Skipped Exon	MOK	ENSG00000080823	3	Event_2148	26	30	-0.499	28	0.499	13.972
+shRYBP_vs_shRING1A.B	Different Direction	Skipped Exon	TEP1	ENSG00000129566	1	Event_2302	56	53	-0.34	54.5	0.34	18.53
+shRYBP_vs_shRING1A.B	Different Direction	Skipped Exon	C2CD5	ENSG00000111731	1	Event_2535	8	24	-0.175	16	0.175	2.8
+Control_vs_shRYBP	Same Direction	Skipped Exon	FANCI	ENSG00000140525	3	Event_2700	19	18	0.57	18.5	0.57	10.545
+Control_vs_shRYBP	Same Direction	Skipped Exon	NKAIN4	ENSG00000101198	1	Event_2657	30	69	0.179	49.5	0.179	8.8605
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	FANCI	ENSG00000140525	3	Event_2700	19	10	0.962	14.5	0.962	13.949
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	ALS2CL	ENSG00000178038	2	Event_3467	13	19	0.808	16	0.808	12.928
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	CELF1	ENSG00000149187	1	Event_3732	14	27	0.729	20.5	0.729	14.9445
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	NMNAT3	ENSG00000163864	1	Event_3406	10	31	0.714	20.5	0.714	14.637
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	CRIM1	ENSG00000150938	1	Event_3409	23	36	-0.668	29.5	0.668	19.706
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	ASCC2	ENSG00000100325	2	Event_2944	8	8	0.667	8	0.667	5.336
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	NME6	ENSG00000172113	2	Event_3376	11	8	-0.667	9.5	0.667	6.3365
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	IDNK	ENSG00000148057	2	Event_3702	29	15	0.64	22	0.64	14.08
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	AC010326.2	ENSG00000269476	1	Event_3023	24	44	0.639	34	0.639	21.726
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	NENF	ENSG00000117691	1	Event_3535	10	26	0.621	18	0.621	11.178
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	PPOX	ENSG00000143224	3	Event_3320	22	15	-0.594	18.5	0.594	10.989
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	ALS2CL	ENSG00000178038	1	Event_3466	24	29	0.589	26.5	0.589	15.6085
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	RPS6KL1	ENSG00000198208	1	Event_3697	15	15	-0.589	15	0.589	8.835
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	NARF	ENSG00000141562	1	Event_3163	29	15	-0.56	22	0.56	12.32
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	TRAPPC3	ENSG00000054116	1	Event_3233	29	19	-0.558	24	0.558	13.392
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	NOD1	ENSG00000106100	1	Event_3755	37	19	-0.542	28	0.542	15.176
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	LINC00847	ENSG00000245060	2	Event_3276	15	18	0.539	16.5	0.539	8.8935
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	ENOX2	ENSG00000165675	1	Event_3630	50	20	0.528	35	0.528	18.48
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	TBC1D5	ENSG00000131374	7	Event_3325	48	12	0.526	30	0.526	15.78
+Control_vs_shRING1A.B	Same Direction	Skipped Exon	ELP2	ENSG00000134759	1	Event_3291	19	11	0.519	15	0.519	7.785
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	ALS2CL	ENSG00000178038	2	Event_3467	6	19	0.808	12.5	0.808	10.1
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	ZNF131	ENSG00000172262	1	Event_3151	17	9	0.77	13	0.77	10.01
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	NME6	ENSG00000172113	2	Event_3376	14	8	-0.756	11	0.756	8.316
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	PPOX	ENSG00000143224	3	Event_3320	19	15	-0.741	17	0.741	12.597
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	CELF1	ENSG00000149187	1	Event_3732	10	27	0.729	18.5	0.729	13.4865
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	AC010326.2	ENSG00000269476	1	Event_3023	25	44	0.639	34.5	0.639	22.0455
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	TBC1D5	ENSG00000131374	7	Event_3325	15	12	0.589	13.5	0.589	7.9515
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	ALS2CL	ENSG00000178038	1	Event_3466	16	29	0.589	22.5	0.589	13.2525
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	RPS6KL1	ENSG00000198208	1	Event_3697	12	15	-0.589	13.5	0.589	7.9515
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	ZNF655	ENSG00000197343	1	Event_4103	24	8	-0.565	16	0.565	9.04
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	TRAPPC3	ENSG00000054116	1	Event_3233	14	19	-0.558	16.5	0.558	9.207
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	TRDMT1	ENSG00000107614	1	Event_3423	15	7	-0.554	11	0.554	6.094
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	ELP2	ENSG00000134759	1	Event_3291	20	11	0.549	15.5	0.549	8.5095
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	WDR20	ENSG00000140153	4	Event_3099	19	40	0.536	29.5	0.536	15.812
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	RCCD1	ENSG00000166965	2	Event_3068	32	14	0.534	23	0.534	12.282
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	IL15	ENSG00000164136	1	Event_3419	58	56	0.534	57	0.534	30.438
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	NARF	ENSG00000141562	1	Event_3163	18	15	-0.532	16.5	0.532	8.778
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	NMNAT3	ENSG00000163864	1	Event_3406	21	31	0.529	26	0.529	13.754
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	IDNK	ENSG00000148057	2	Event_3702	32	15	0.524	23.5	0.524	12.314
+shRYBP_vs_shRING1A.B	Same Direction	Skipped Exon	IL15	ENSG00000164136	2	Event_3420	29	14	0.515	21.5	0.515	11.0725
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	NSRP1	ENSG00000126653	3	Event_3589	43	16	-0.777	29.5	0.777	22.9215
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	GINS1	ENSG00000101003	1	Event_3310	11	26	0.766	18.5	0.766	14.171
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	POLL	ENSG00000166169	2	Event_3663	4	29	-0.761	16.5	0.761	12.5565
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	AC027097.2	ENSG00000267787	1	Event_3296	16	29	0.689	22.5	0.689	15.5025
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	SREK1IP1	ENSG00000153006	1	Event_3179	28	12	-0.677	20	0.677	13.54
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	METTL5	ENSG00000138382	1	Event_3268	9	19	0.673	14	0.673	9.422
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	C17orf67	ENSG00000214226	2	Event_3014	10	13	0.654	11.5	0.654	7.521
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	TRIM16	ENSG00000221926	2	Event_3746	25	20	-0.648	22.5	0.648	14.58
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	NFATC2IP	ENSG00000176953	1	Event_3050	14	19	0.639	16.5	0.639	10.5435
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	IDNK	ENSG00000148057	1	Event_3701	18	13	0.622	15.5	0.622	9.641
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	SLC38A9	ENSG00000177058	2	Event_3184	15	6	-0.614	10.5	0.614	6.447
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	CBWD3	ENSG00000196873	1	Event_3581	29	14	0.614	21.5	0.614	13.201
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	RIDA	ENSG00000132541	1	Event_3669	49	20	0.604	34.5	0.604	20.838
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	BRD9	ENSG00000028310	1	Event_3468	9	15	0.6	12	0.6	7.2
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	PACRGL	ENSG00000163138	3	Event_3187	23	9	-0.596	16	0.596	9.536
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	ITGB3BP	ENSG00000142856	2	Event_3478	19	17	0.589	18	0.589	10.602
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	AKT2	ENSG00000105221	1	Event_3803	7	16	-0.588	11.5	0.588	6.762
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	NELFA	ENSG00000185049	1	Event_3563	34	25	-0.577	29.5	0.577	17.0215
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	C4orf36	ENSG00000163633	1	Event_3172	34	15	0.576	24.5	0.576	14.112
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Skipped Exon	IP6K2	ENSG00000068745	3	Event_3382	15	5	0.574	10	0.574	5.74
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	MICAL2	ENSG00000133816	1	Event_605	10	10	-0.591	10	0.591	5.91
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	PCBP1-AS1	ENSG00000179818	1	Event_584	6	13	0.456	9.5	0.456	4.332
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	MSTO1	ENSG00000125459	1	Event_528	20	30	-0.419	25	0.419	10.475
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	TOP3A	ENSG00000177302	1	Event_515	49	32	-0.398	40.5	0.398	16.119
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	FKRP	ENSG00000181027	1	Event_509	26	21	-0.384	23.5	0.384	9.024
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	RSRP1	ENSG00000117616	1	Event_555	76	87	-0.358	81.5	0.358	29.177
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	EOGT	ENSG00000163378	1	Event_599	37	34	0.353	35.5	0.353	12.5315
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	GORASP1	ENSG00000114745	1	Event_581	8	14	0.35	11	0.35	3.85
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	MUTYH	ENSG00000132781	1	Event_559	73	54	0.348	63.5	0.348	22.098
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	GOSR2	ENSG00000108433	1	Event_513	21	42	0.338	31.5	0.338	10.647
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	ZNF148	ENSG00000163848	1	Event_575	27	29	0.329	28	0.329	9.212
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	FN3KRP	ENSG00000141560	1	Event_512	23	15	-0.316	19	0.316	6.004
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	AC009948.1	ENSG00000223960	1	Event_571	50	77	-0.315	63.5	0.315	20.0025
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	GSG1	ENSG00000111305	1	Event_588	64	51	-0.309	57.5	0.309	17.7675
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	PVT1	ENSG00000249859	1	Event_597	45	40	0.307	42.5	0.307	13.0475
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	ELMOD3	ENSG00000115459	1	Event_598	50	70	-0.307	60	0.307	18.42
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	ZNF561	ENSG00000171469	1	Event_527	133	102	-0.299	117.5	0.299	35.1325
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	TAX1BP1	ENSG00000106052	1	Event_534	61	51	-0.275	56	0.275	15.4
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	TUBGCP6	ENSG00000128159	1	Event_506	19	21	-0.266	20	0.266	5.32
+Control_vs_shRYBP	Unique to shRYBP vs Control	Alternative 3' Splice Site	IL17RD	ENSG00000144730	1	Event_546	23	27	-0.258	25	0.258	6.45
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	C18orf54	ENSG00000166845	1	Event_510	13	48	0.633	30.5	0.633	19.3065
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CETN4P	ENSG00000224786	1	Event_535	15	32	-0.535	23.5	0.535	12.5725
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	SH3TC2	ENSG00000169247	1	Event_578	5	25	0.431	15	0.431	6.465
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ACTR10	ENSG00000131966	1	Event_617	16	21	0.407	18.5	0.407	7.5295
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	PPT2-EGFL8	ENSG00000258388	1	Event_591	15	7	-0.377	11	0.377	4.147
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	PDLIM2	ENSG00000120913	1	Event_549	42	32	-0.376	37	0.376	13.912
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	TTC31	ENSG00000115282	1	Event_568	25	17	-0.344	21	0.344	7.224
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CCDC159	ENSG00000183401	1	Event_590	19	48	-0.33	33.5	0.33	11.055
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	NPL	ENSG00000135838	1	Event_572	24	45	-0.264	34.5	0.264	9.108
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	TMF1	ENSG00000144747	1	Event_542	31	54	-0.256	42.5	0.256	10.88
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CYB5RL	ENSG00000215883	1	Event_563	42	60	-0.243	51	0.243	12.393
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	KMT2A	ENSG00000118058	1	Event_582	30	36	-0.223	33	0.223	7.359
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CTNND1	ENSG00000198561	1	Event_608	22	36	-0.214	29	0.214	6.206
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZNF527	ENSG00000189164	1	Event_611	28	24	-0.201	26	0.201	5.226
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	SPEG	ENSG00000072195	1	Event_577	16	26	-0.197	21	0.197	4.137
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	COL16A1	ENSG00000084636	1	Event_551	9	29	-0.191	19	0.191	3.629
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZMYM1	ENSG00000197056	1	Event_556	75	100	-0.19	87.5	0.19	16.625
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	IQCJ-SCHIP1	ENSG00000283154	1	Event_601	241	295	-0.166	268	0.166	44.488
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZKSCAN8	ENSG00000198315	1	Event_583	36	44	0.161	40	0.161	6.44
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ATP5S	ENSG00000125375	1	Event_543	25	60	-0.154	42.5	0.154	6.545
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CETN4P	ENSG00000224786	1	Event_535	15	27	-0.649	21	0.649	13.629
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	C18orf54	ENSG00000166845	1	Event_510	13	15	0.585	14	0.585	8.19
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CCDC159	ENSG00000183401	1	Event_590	19	31	-0.565	25	0.565	14.125
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	SPEG	ENSG00000072195	1	Event_577	16	34	-0.456	25	0.456	11.4
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	TTC31	ENSG00000115282	1	Event_568	25	11	-0.344	18	0.344	6.192
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	SH3TC2	ENSG00000169247	1	Event_578	5	54	0.344	29.5	0.344	10.148
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	KMT2A	ENSG00000118058	1	Event_582	30	25	-0.339	27.5	0.339	9.3225
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	CTNND1	ENSG00000198561	1	Event_608	22	42	-0.298	32	0.298	9.536
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	PPT2-EGFL8	ENSG00000258388	1	Event_591	15	11	-0.291	13	0.291	3.783
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	PDLIM2	ENSG00000120913	1	Event_549	42	30	-0.265	36	0.265	9.54
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	TMF1	ENSG00000144747	1	Event_542	31	52	-0.262	41.5	0.262	10.873
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	HERC2P9	ENSG00000206149	1	Event_525	26	24	-0.241	25	0.241	6.025
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	COL16A1	ENSG00000084636	1	Event_551	9	20	-0.24	14.5	0.24	3.48
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZNF527	ENSG00000189164	1	Event_611	28	25	-0.236	26.5	0.236	6.254
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	PTPN13	ENSG00000163629	1	Event_538	59	99	-0.206	79	0.206	16.274
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZKSCAN8	ENSG00000198315	1	Event_583	36	39	0.196	37.5	0.196	7.35
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ZMYM1	ENSG00000197056	1	Event_556	75	109	-0.172	92	0.172	15.824
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	ATP5S	ENSG00000125375	1	Event_543	25	54	-0.134	39.5	0.134	5.293
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	IQCJ-SCHIP1	ENSG00000283154	1	Event_601	241	155	-0.127	198	0.127	25.146
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Alternative 3' Splice Site	SNHG12	ENSG00000197989	1	Event_561	207	194	-0.126	200.5	0.126	25.263
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	ABCC6	ENSG00000091262	1	Event_634	9	58	0.73	33.5	0.73	24.455
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	VCPKMT	ENSG00000100483	1	Event_671	41	39	-0.636	40	0.636	25.44
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	DDIAS	ENSG00000165490	1	Event_681	26	9	0.575	17.5	0.575	10.0625
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	RALGAPA1	ENSG00000174373	1	Event_640	7	29	0.549	18	0.549	9.882
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	BEST1	ENSG00000167995	1	Event_639	27	29	0.515	28	0.515	14.42
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	CTTNBP2	ENSG00000077063	1	Event_670	22	48	0.461	35	0.461	16.135
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	KRBOX4	ENSG00000147121	1	Event_644	14	11	-0.448	12.5	0.448	5.6
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	TMEM134	ENSG00000172663	1	Event_680	31	15	-0.443	23	0.443	10.189
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	GUSBP11	ENSG00000228315	1	Event_619	18	30	-0.411	24	0.411	9.864
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	SNX17	ENSG00000115234	1	Event_654	57	64	0.403	60.5	0.403	24.3815
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	MTG1	ENSG00000148824	1	Event_685	44	41	-0.354	42.5	0.354	15.045
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	SMUG1	ENSG00000123415	1	Event_687	17	38	-0.349	27.5	0.349	9.5975
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	RWDD3	ENSG00000122481	1	Event_656	42	43	-0.326	42.5	0.326	13.855
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	BIRC6	ENSG00000115760	1	Event_635	52	38	0.322	45	0.322	14.49
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	ZNF559-ZNF177	ENSG00000270011	1	Event_621	17	39	-0.317	28	0.317	8.876
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	TRERF1	ENSG00000124496	1	Event_691	42	98	-0.279	70	0.279	19.53
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	HAGHL	ENSG00000103253	1	Event_660	11	20	-0.272	15.5	0.272	4.216
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	SMURF2P1-LRRC37BP1	ENSG00000214719	1	Event_630	51	55	0.271	53	0.271	14.363
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	LRRC37BP1	ENSG00000250462	1	Event_636	56	85	0.267	70.5	0.267	18.8235
+Control_vs_shRING1A.B	Unique to shRING1A.B vs Control	Alternative 3' Splice Site	GMPPA	ENSG00000144591	1	Event_643	210	295	-0.248	252.5	0.248	62.62
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RPS6KL1	ENSG00000198208	1	Event_677	16	10	-0.485	13	0.485	6.305
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	NME3	ENSG00000103024	1	Event_684	19	13	-0.442	16	0.442	7.072
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	NOL8	ENSG00000198000	1	Event_678	52	31	0.428	41.5	0.428	17.762
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HDLBP	ENSG00000115677	2	Event_664	32	28	0.402	30	0.402	12.06
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	AC009948.1	ENSG00000223960	2	Event_657	13	18	0.329	15.5	0.329	5.0995
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	TRMT2B	ENSG00000188917	1	Event_673	53	61	0.307	57	0.307	17.499
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SPAG4	ENSG00000061656	1	Event_623	20	42	0.284	31	0.284	8.804
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RPL13A	ENSG00000142541	1	Event_620	41	72	0.264	56.5	0.264	14.916
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	OGFOD2	ENSG00000111325	1	Event_642	38	58	0.242	48	0.242	11.616
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	WISP2	ENSG00000064205	1	Event_655	7	25	-0.2	16	0.2	3.2
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RAB3IP	ENSG00000127328	1	Event_688	54	39	0.191	46.5	0.191	8.8815
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HDLBP	ENSG00000115677	1	Event_663	86	97	0.19	91.5	0.19	17.385
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HUS1	ENSG00000136273	1	Event_666	62	52	-0.19	57	0.19	10.83
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SPG7	ENSG00000197912	2	Event_633	84	74	0.185	79	0.185	14.615
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	ARHGEF40	ENSG00000165801	1	Event_692	273	381	0.18	327	0.18	58.86
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	FPGT	ENSG00000254685	1	Event_674	114	95	-0.153	104.5	0.153	15.9885
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	IDH3B	ENSG00000101365	1	Event_624	707	709	0.128	708	0.128	90.624
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SLC4A7	ENSG00000033867	1	Event_653	235	171	0.127	203	0.127	25.781
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	CHD3	ENSG00000170004	1	Event_631	297	403	0.123	350	0.123	43.05
+Control_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SLC25A19	ENSG00000125454	2	Event_628	82	40	0.122	61	0.122	7.442
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	WISP2	ENSG00000064205	1	Event_655	20	25	-0.505	22.5	0.505	11.3625
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RPS6KL1	ENSG00000198208	1	Event_677	13	10	-0.461	11.5	0.461	5.3015
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	AC009948.1	ENSG00000223960	2	Event_657	14	18	0.459	16	0.459	7.344
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HDLBP	ENSG00000115677	2	Event_664	38	28	0.446	33	0.446	14.718
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	NME3	ENSG00000103024	1	Event_684	23	13	-0.285	18	0.285	5.13
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SPAG4	ENSG00000061656	1	Event_623	16	42	0.284	29	0.284	8.236
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	NOL8	ENSG00000198000	1	Event_678	40	31	0.276	35.5	0.276	9.798
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RPL13A	ENSG00000142541	1	Event_620	63	72	0.264	67.5	0.264	17.82
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SLC25A19	ENSG00000125454	2	Event_628	71	40	0.248	55.5	0.248	13.764
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	ARHGEF40	ENSG00000165801	1	Event_692	279	381	0.235	330	0.235	77.55
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	OGFOD2	ENSG00000111325	1	Event_642	34	58	0.222	46	0.222	10.212
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HDLBP	ENSG00000115677	1	Event_663	95	97	0.222	96	0.222	21.312
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	RAB3IP	ENSG00000127328	1	Event_688	45	39	0.212	42	0.212	8.904
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	TRMT2B	ENSG00000188917	1	Event_673	58	61	0.198	59.5	0.198	11.781
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SLC25A19	ENSG00000125454	1	Event_627	134	131	-0.189	132.5	0.189	25.0425
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	HUS1	ENSG00000136273	1	Event_666	54	52	-0.189	53	0.189	10.017
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SPG7	ENSG00000197912	2	Event_633	45	74	0.151	59.5	0.151	8.9845
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	FPGT	ENSG00000254685	1	Event_674	98	95	-0.134	96.5	0.134	12.931
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	SLC4A7	ENSG00000033867	1	Event_653	229	171	0.129	200	0.129	25.8
+shRYBP_vs_shRING1A.B	Same Direction	Alternative 3' Splice Site	CHD3	ENSG00000170004	1	Event_631	340	403	0.127	371.5	0.127	47.1805
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	FAM49B	ENSG00000153310	1	Event_872	28	29	-0.726	28.5	0.726	20.691
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	ZNF133	ENSG00000125846	2	Event_868	30	14	-0.633	22	0.633	13.926
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	OBSCN	ENSG00000154358	2	Event_895	25	15	0.612	20	0.612	12.24
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	MSR1	ENSG00000038945	2	Event_897	25	14	-0.597	19.5	0.597	11.6415
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	PTP4A1	ENSG00000112245	2	Event_863	13	9	0.583	11	0.583	6.413
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	ZNF266	ENSG00000174652	1	Event_864	21	40	0.508	30.5	0.508	15.494
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	CROCC	ENSG00000058453	2	Event_893	27	65	-0.495	46	0.495	22.77
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	TRDMT1	ENSG00000107614	1	Event_902	10	11	-0.486	10.5	0.486	5.103
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	PCBP1-AS1	ENSG00000179818	8	Event_918	12	5	0.469	8.5	0.469	3.9865
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	AC104109.4	ENSG00000273345	2	Event_870	66	53	-0.465	59.5	0.465	27.6675
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	HSD11B1L	ENSG00000167733	6	Event_853	12	26	-0.451	19	0.451	8.569
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	HPSE	ENSG00000173083	2	Event_900	37	73	-0.442	55	0.442	24.31
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	HDX	ENSG00000165259	1	Event_922	28	46	0.442	37	0.442	16.354
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	TMEM198	ENSG00000188760	2	Event_907	32	290	0.421	161	0.421	67.781
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	ZFAND4	ENSG00000172671	2	Event_947	22	27	-0.397	24.5	0.397	9.7265
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	CASC19	ENSG00000254166	6	Event_930	21	16	0.395	18.5	0.395	7.3075
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	HSD11B1L	ENSG00000167733	5	Event_852	28	52	0.37	40	0.37	14.8
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	FGD4	ENSG00000139132	1	Event_949	75	93	-0.328	84	0.328	27.552
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	HSD11B1L	ENSG00000167733	4	Event_851	42	72	0.321	57	0.321	18.297
+Control_vs_shRYBP	Unique to shRYBP vs Control	Mutually Exclusive Exon	CCDC142	ENSG00000135637	1	Event_899	22	25	-0.313	23.5	0.313	7.3555
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RAPH1	ENSG00000173166	1	Event_896	8	7	-0.667	7.5	0.667	5.0025
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	SLC3A2	ENSG00000168003	1	Event_932	9	16	-0.445	12.5	0.445	5.5625
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	CASC15	ENSG00000272168	2	Event_866	44	22	0.404	33	0.404	13.332
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RBM23	ENSG00000100461	4	Event_941	11	36	-0.374	23.5	0.374	8.789
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	EPB41L1	ENSG00000088367	3	Event_855	53	88	-0.371	70.5	0.371	26.1555
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	POLR2J4	ENSG00000214783	1	Event_915	31	39	0.339	35	0.339	11.865
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RBM23	ENSG00000100461	5	Event_942	29	61	-0.29	45	0.29	13.05
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	NUMA1	ENSG00000137497	2	Event_936	118	124	0.264	121	0.264	31.944
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	ARID4A	ENSG00000032219	1	Event_957	28	31	0.229	29.5	0.229	6.7555
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	NBPF9	ENSG00000269713	2	Event_890	55	66	0.16	60.5	0.16	9.68
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	KIFC3	ENSG00000140859	1	Event_945	568	766	-0.15	667	0.15	100.05
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MMP24	ENSG00000125966	2	Event_857	756	1342	-0.137	1049	0.137	143.713
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MIOS	ENSG00000164654	1	Event_912	93	65	-0.137	79	0.137	10.823
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	FADS3	ENSG00000221968	1	Event_944	612	549	-0.131	580.5	0.131	76.0455
+Control_vs_shRYBP	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MEAF6	ENSG00000163875	1	Event_891	85	46	0.117	65.5	0.117	7.6635
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RAPH1	ENSG00000173166	1	Event_896	8	7	-0.554	7.5	0.554	4.155
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	CASC15	ENSG00000272168	2	Event_866	44	40	0.549	42	0.549	23.058
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	ARID4A	ENSG00000032219	1	Event_957	28	42	0.457	35	0.457	15.995
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	EPB41L1	ENSG00000088367	3	Event_855	53	101	-0.452	77	0.452	34.804
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	SLC3A2	ENSG00000168003	1	Event_932	9	20	-0.277	14.5	0.277	4.0165
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	POLR2J4	ENSG00000214783	1	Event_915	31	47	0.261	39	0.261	10.179
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	NUMA1	ENSG00000137497	2	Event_936	118	98	0.257	108	0.257	27.756
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RBM23	ENSG00000100461	5	Event_942	29	61	-0.215	45	0.215	9.675
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	RBM23	ENSG00000100461	4	Event_941	11	35	-0.178	23	0.178	4.094
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MIOS	ENSG00000164654	1	Event_912	93	88	-0.175	90.5	0.175	15.8375
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	FADS3	ENSG00000221968	1	Event_944	612	1051	-0.161	831.5	0.161	133.8715
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	KIFC3	ENSG00000140859	1	Event_945	568	905	-0.13	736.5	0.13	95.745
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MEAF6	ENSG00000163875	1	Event_891	85	50	0.117	67.5	0.117	7.8975
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	MMP24	ENSG00000125966	2	Event_857	756	2146	-0.114	1451	0.114	165.414
+Control_vs_shRING1A.B	Common to shRING1A.B and shRYBP	Mutually Exclusive Exon	NBPF9	ENSG00000269713	2	Event_890	55	99	0.106	77	0.106	8.162
+Control_vs_shRYBP	Same Direction	Mutually Exclusive Exon	GALNT14	ENSG00000158089	1	Event_901	17	13	0.432	15	0.432	6.48
