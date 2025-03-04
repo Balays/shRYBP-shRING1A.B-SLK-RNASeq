@@ -1,0 +1,46 @@
+# Ignore fastq files, rmats outputs and bams
+**/fastq
+
+**/rmats_3_1/
+**/rmats_3_2/
+**/rmats_3_3/
+
+**/tmp_3_3/
+**/tmp_3_2/
+**/tmp_3_1/
+
+**/sashimi_3_1/
+**/sashimi_3_2/
+**/sashimi_3_3/
+
+# Results of previous runs
+**/salmon_arch/
+**/RYBP_results_v1/
+
+## Genome and annotation
+gentrome.fa
+genome.fa
+genome.gtf
+04.Ref.zip
+transcripts.fa
+TR.annots.tsv
+annotation_model.rds
+feature_counts.tsv
+exon_counts.tsv
+FC_exons.tsv
+
+## Other large files
+bam.TR.rds
+DEXSeq.rds
+DEXSeq_results.rds
+
+# Ignore RStudio project files at any level
+**/.Rproj.user/
+**/.Rhistory
+**/.RData
+**/*.Rproj
+**/.Renviron
+
+# R environment
+.Renviron
+.Rproj.user
